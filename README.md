@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Hava-114
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning ML
+- 
 
 
 <!---
